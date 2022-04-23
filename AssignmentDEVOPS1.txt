@@ -1,0 +1,360 @@
+                                                                                  Assignments - 7th April
+
+1. What is Computer Network?
+Ans- A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other. A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other. 
+
+2. Types of CN?
+Ans- A computer network is mainly of four types:
+       1) LAN(Local Area Network)
+       2) PAN(Personal Area Network)
+       3) MAN(Metropolitan Area Network)
+       4) WAN(Wide Area Network)
+
+3. What is an IP address?
+Ans- An IP address, or Internet Protocol address, is a series of numbers that identifies any device on a network. Computers use IP addresses to communicate with each other both over the internet as well as on other networks.
+
+4. What is IPV4 and IPV6?
+Ans- 1) The Internet Protocol version 4 (IPv4) is a protocol for use on packet-switched Link Layer               networks (e.g. Ethernet)
+     2) IPv4 provides an addressing capability of approximately 4.3 billion addresses.
+     3) The Internet Protocol version 6 (IPv6) is more advanced and has better features compared to IPv4.
+     4) It has the capability to provide an infinite number of addresses
+     5) IPv4 uses four 1 byte decimal numbers, separated by a dot (i.e. 192.168.1.1)
+     6) IPv6 uses hexadecimal numbers that are separated by colons (i.e. fe80::d4a8:6435:d2d8:d9f3b11). 
+
+5. What are softwares?
+Ans- Software is a collection of instructions that tell a computer how to work. This is in contrast to hardware, from which the system is built and which actually performs the work.
+
+6. Differet Types of Softwares?
+Ans- Types of Software
+          Application Software.
+          System Software.
+          Firmware.
+          Programming Software.
+          Driver Software.
+          Freeware.
+          Shareware.
+          Open Source Software. 
+
+                                                                                  Assignments - 8th April
+
+1. What is a Database?
+Ans- In computing, a database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage.
+
+2. What is DBMS?
+Ans- A database management system (or DBMS) is essentially nothing more than a computerized data-keeping system. Users of the system are given facilities to perform several kinds of operations on such a system for either manipulation of the data in the database or the management of the database structure itself.
+
+3. Types of DBMS?
+Ans- 1) hierarchical database systems.
+     2) network database systems.
+     3) object-oriented database systems.
+
+4. What is Client Server Architecture?
+Ans- lient-server architecture, architecture of a computer network in which many clients (remote processors) request and receive service from a centralized server (host computer). Client computers provide an interface to allow a computer user to request services of the server and to display the results the server returns.
+
+                                                                                    Assignments - 9th April
+
+1. What is a software bug?
+Ans- A software bug is an error, flaw or fault in computer software that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. The process of finding and correcting bugs is termed "debugging" and often uses formal techniques or tools to pinpoint bugs.
+
+2. What is Middlware?
+Ans- Middleware is software which lies between an operating system and the applications running on it. Essentially functioning as hidden translation layer, middleware enables communication and data management for distributed applications.
+
+3. What is a webserver?
+Ans- A web server stores and delivers the content for a website – such as text, images, video, and application data – to clients that request it. The most common type of client is a web browser program, which requests data from your website when a user clicks on a link or downloads a document on a page displayed in the browser.
+A web server is computer software and underlying hardware that accepts requests via HTTP or its secure variant HTTPS.
+
+4. What is a Application server?
+Ans- It is a type of server designed to install, operate and host associated services and applications for the IT services, end users and organizations. The Example of Application Servers are: JBoss: Open-source server from JBoss community. Glassfish: Provided by Sun Microsystem.
+
+5. What is a Load Balancer?
+Ans- In computing, load balancing refers to the process of distributing a set of tasks over a set of resources, with the aim of making their overall processing more efficient. Load balancing can optimize the response time and avoid unevenly overloading some compute nodes while other compute nodes are left idle.
+
+6. What is 2-Tier Architecture?
+Ans- A two-tier architecture is a software architecture in which a presentation layer or interface runs on a client, and a data layer or data structure gets stored on a server. Separating these two components into different locations represents a two-tier architecture, as opposed to a single-tier architecture. Other kinds of multi-tier architectures add additional layers in distributed software design.
+
+7. What is 3-Tier Architecture?
+Ans- A three-tier architecture is a client-server architecture in which the functional process logic, data access, computer data storage and user interface are developed and maintained as independent modules on separate platforms.
+Three-tier architecture is a software design pattern and a well-established software architecture.
+
+8. What is n-Tier Architecture?
+Ans- N-tier architecture is a client-server architecture concept in software engineering where the presentation, processing and data management functions are both logically and physically separated. These functions are each running on a separate machine or separate clusters so that each is able to provide the services at top capacity since there is no resource sharing. This separation makes managing each separately easier since doing work on one does not affect the others, isolating any problems that might occur.
+N-tier architecture is also known as multi-tier architecture.
+
+                                                                                     Assignments -- 11th April
+
+1.What is a protocol?
+Ans- A protocol is a set of rules and guidelines for communicating data. Rules are defined for each step and process during communication between two or more computers. Networks have to follow these rules to successfully transmit data.
+
+2. What is OSI Model?
+Ans- The Open Systems Interconnection model is a conceptual model that describes the universal standard of communication functions of a telecommunication system or computing system, without any regard to the system's underlying internal technology and specific protocol suites.
+
+3. What is TCP/IP Model?
+Ans- The Internet protocol suite, commonly known as TCP/IP, is the set of communications protocols used in the Internet and similar computer networks. The current foundational protocols in the suite are the Transmission Control Protocol and the Internet Protocol, as well as the User Datagram Protocol.
+
+4. What is http?
+Ans: Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML.
+
+5. What is https?
+Ans: HTTPS (Hypertext Transfer Protocol Secure) is an internet communication protocol that protects the integrity and confidentiality of data between the user's computer and the site. 
+
+6. What is SSL?
+Ans: SSL stands for Secure Sockets Layer and, in short, it's the standard technology for keeping an internet connection secure and safeguarding any sensitive data that is being sent between two systems, preventing criminals from reading and modifying any information transferred, including potential personal details.
+
+7. What is Encryption?
+Ans: Encryption is a means of securing data by encoding it mathematically such that it can only be read, or decrypted, by those with the correct key or cipher
+
+8. What is Decryption?
+Ans: The conversion of encrypted data into its original form is called Decryption. It is generally a reverse process of encryption.
+
+9. What is DNS?
+Ans: The Domain Name System (DNS) turns domain names into IP addresses, which browsers use to load internet pages. Every device connected to the internet has its own IP address, which is used by other devices to locate the device.
+
+10. What is a Router?
+Ans: A router takes data packets from devices and directs them to the right place. Routers often use IP addresses to know where to look for information. 
+ Routers allow your computers to access the internet or request files from a server. It also makes sure that information goes back to the device that requested it
+
+11. What is ISP and what do they do?
+Ans: Internet service provider (ISP), company that provides Internet connections and services to individuals and organizations. In addition to providing access to the Internet, 
+ISPs may also provide software packages (such as browsers), e-mail accounts, and a personal Web site or  home page.
+                              
+                                                                       
+                                                                               Assignments -- 12th April
+
+1. What is Localhost? 
+Ans: A localhost is the standard host name provided to the address of the local computer in computer networking. 
+     The localhost denotes the host name used in communicating with the loopback network interface
+
+2. What is 127.0.0.1 Ip address? 
+Ans: 127.0.0.1 is the loopback Internet protocol (IP) address and also referred to as the “localhost.” 
+     The address is used to establish an IP connection to the same machine or computer being used by the end-user. 
+     Establishing a connection using the address 127.0.0.1 is the most common practice.
+
+3. What do you mean by loopback?
+Ans: Loopback is the routing of electronic signals or digital data streams back to their source without intentional processing or modification. 
+     It is primarily a means of testing the communications infrastructure. 
+
+4. What is a Port? What are reserved ports?
+Ans: A port in networking is a software-defined number associated to a network protocol that receives or transmits communication for a specific service.
+
+5.What are reserved ports?
+ RESERVED ports does indicates that the port is not available for use by any user. Port numbers from 0 to 1023 are reserved for common TCP/IP applications.
+
+6.What port is reserved for http? 
+Ans: HTTP Port-80 is used for HTTP (Hyper Text Transfer Protocol) connection by default. It is a popular and widely used port across the globe.
+
+7.What port is reserved for https? 
+Ans: HTTPS connections use TCP port 443
+
+                                                                                Assignments -- 13th April
+
+1.What is the difference between IP address and Mac Address?
+Ans: The main difference between MAC and IP address is that MAC Address is used to ensure the physical address of the computer. It uniquely identifies the devices on a network. 
+     While IP addresses are used to uniquely identifies the connection of the network with that device takes part in a network.
+
+2.What is the default port for Apache?
+Ans: HTTP port 80
+
+3.What is JDK?
+Ans: JDK is a development environment for building applications, applets, and components using           the Java programming language. 
+ The JDK includes tools useful for developing and testing programs written in the Java programming language and running on the Java platform.
+
+4.What is JRE?
+Ans: The Java Runtime Environment, or JRE, is a software layer that runs on top of a computer’s operating system software and provides the class libraries and other resources that a specific Java program needs to run.
+
+                                                                                 Assignments -- 14th April
+
+1. What is a Data Center?
+A data center or data centre is a building, a dedicated space within a building, or a group of buildings used to house computer systems and associated components, such as telecommunications and storage systems
+
+2. What are the different types environments discussed in the class?
+The core elements of a data center are host, storage, connectivity (or network), applications, and DBMS that are managed centrally. These elements work together to process and store data. With the evolution of virtualization, data centers have also evolved from a classic data center to a virtualized data center (VDC).
+
+3. What are the different operations teams discussed in the class?
+Company's operations team are people that ensure customers' satisfaction and happiness while providing the services that they need. They are those responsible for the aspect that company's hard-earned customers are taken care of.
+
+4. Who are Deployment/Build engineers?
+A Deployment Engineer is responsible for the deployment of releases into the production environment. A Deployment Engineer is responsible for the safe deployment of one or more releases into the production environment.
+
+5. What kind of work is done by developers?
+Software developers design and create software programs for a variety of computer systems. Different types of programs require unique programming languages, so many professionals in this career might specialize in a certain coding language. Software developers' work varies depending on their employer.
+
+6. What kind of work is done by testers?
+The key function of a Tester is to conduct both manual and automated tests of software products. No matter what company they work for, their ongoing goal is to reduce the number of bugs in software and identify as many mistakes as possible.
+Change the tomcat port to 9999, 7777, 8888 and test.
+
+                                                                                  Assignments -- 15th April
+
+1. What is a Java Archive file?
+JAR (Java Archive) is a platform-independent file format that aggregates many files into one. Multiple Java applets and their requisite components (. class files, images and sounds) can be bundled in a JAR file and subsequently downloaded to a browser in a single HTTP transaction, greatly improving the download speed.
+
+2. What do you mean by compiling a code?
+Compile refers to the act of converting programs written in high level programming language, which is understandable and written by humans, into a low level binary language understood only by the computer.
+
+3. What happens when you compile a code?
+Compile refers to the act of converting programs written in high level programming language, which is understandable and written by humans, into a low level binary language understood only by the computer.
+
+4. What are jar, war, ear files and their differences?
+An EAR (Enterprise Archive) file merges JAR and WAR files into a single archive. These files with the '. ear' extension have a directory for metadata. The modules are packaged into on archive for smooth and simultaneous operation of the different modules within an app server.
+A WAR file may be digitally signed in the same way as a JAR file in order to allow others to determine where the source code came from.
+WAR stands for Web Application Archive or Web Application Resource. These archive files have the . war extension and are used to package web applications that we can deploy on any Servlet/JSP container.
+
+                                                                                  Assignments -- 16th April
+
+1. How do you deploy a war file on tomcat server?
+Copy and paste. Perhaps the simplest way to deploy a WAR file to Tomcat is to copy the file to Tomcat's webapps directory. Copy and paste WAR files into Tomcat's webapps directory to deploy them. Tomcat monitors this webapps directory for changes, and if it finds a new file there, it will attempt to deploy it.
+
+2. How do you access a custom html file from tomcat server?
+Create a folder named "tomcat6-myapp" in /usr/share.
+Create a folder "myapp" under /usr/share/tomcat6-myapp.
+Copy the HTML file (that I need to deploy) to /usr/share/tomcat6-myapp/myapp. ...
+Go to /etc/tomcat6/Catalina/localhost.
+Create an xml file "myapp.
+
+                                                                                  Assignments -- 18th April
+
+1. What is virtualization?
+Virtualization is technology that lets you create useful IT services using resources that are traditionally bound to hardware. It allows you to use a physical machine's full capacity by distributing its capabilities among many users or environments.
+Types of virtualization
+-Desktop virtualization
+-Network virtualization
+-Storage virtualization
+-Data virtualization
+-Application virtualization
+-Data center virtualization
+-CPU virtualization
+-GPU virtualization
+-Linux virtualization
+-Cloud virtualization
+
+2. Download and install VMware Workstation player?
+
+3. Set Virtualization to enabled or ON on your laptop or desktop.
+
+4. Download Ubuntu ISO image.
+
+                                                                                  Assignments -- 19th April
+
+1. Create windows VM on VMware
+
+ 
+                                                                                  Assignments -- 20th April 
+1. Who manages the port?
+OS 
+
+2. Who manages IP address in a network?
+switch
+
+3. What is a Hypervisor?
+A hypervisor is the software layer that coordinates VMs. It serves as an interface between the VM and the underlying physical hardware, ensuring that each has access to the physical resources it needs to execute. It also ensures that the VMs don’t interfere with each other by impinging on each other’s memory space or compute cycles.
+There are two types of hypervisors:
+Type 1 or “bare-metal” hypervisors interact with the underlying physical resources, replacing the traditional operating system altogether. They most commonly appear in virtual server scenarios.
+Type 2 hypervisors run as an application on an existing OS. Most commonly used on endpoint devices to run alternative operating systems, they carry a performance overhead because they must use the host OS to access and coordinate the underlying hardware resources.
+
+4. What are the pre-requisites for intsllating a Hypervisor?
+
+5. What are the steps required to create a VM?
+
+6. What are the drawbacks of Hypervisor?
+Parent OS crash can crash all the VMs
+Overhead of frequent security and OS updates.
+Prior to using Hyper-V primary OS must be installed.
+Service templates don’t have much support.
+
+                                                                                    Assignments -- 21st April
+
+1. What is cloud?
+"The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing, users and companies do not have to manage physical servers themselves or run software applications on their own machines.
+
+2. What is the difference between Cloud and Internet?
+
+Internet:	
+1.  	The internet is a network of networks that encompasses all internet services.
+2.  	The internet had its first use as far back as the 1960s.
+3. 	The internet is not dependent on Cloud commuting for its operations.
+4.	The internet provides software/hardware infrastructure to establish and maintain       connectivity all over the globe.	
+5.	The internet consists of different other internet services such as chat rooms, voice over  internet protocols (VoIP), etc.	
+6. 	The internet is free.	
+
+Cloud computing: 
+1.	computing is an internet service that allows the accessing, processing, and storage of data.
+2.	Cloud computing is a new technology that surfaced in the 2000s
+3.	Cloud computing is dependent on the internet for its operations
+4.	Cloud computing is a software infrastructure on the internet.
+5.	Cloud computing is an internet service itself.
+6.	Cloud computing has a pay-as-you-go model that allows users to get more access to internet service.
+
+3. What are the 2 models available in Cloud?
+
+4. What is a service model?
+There are the following three types of cloud service models -
+1.	Infrastructure as a Service (IaaS)
+2.	Platform as a Service (PaaS)
+3.	Software as a Service (SaaS)
+
+5. What is a deployment model?
+There are four cloud deployment models: public, private, community, and hybrid. Each deployment model is defined according to where the infrastructure for the environment is located.
+
+6. what is IAAS, Explain?
+IaaS is also known as Hardware as a Service (HaaS). It is a computing infrastructure managed over the internet. The main advantage of using IaaS is that it helps users to avoid the cost and complexity of purchasing and managing the physical servers.
+Characteristics of IaaS
+Resources are available as a service
+Services are highly scalable
+Dynamic and flexible
+GUI and API-based access
+Automated administrative tasks
+Example: DigitalOcean, Linode, Amazon Web Services (AWS), Microsoft Azure, Google Compute Engine (GCE), Rackspace, and Cisco Metacloud.
+
+7. What is PAAS, Explain?
+PaaS cloud computing platform is created for the programmer to develop, test, run, and manage the applications.
+Characteristics of PaaS
+Accessible to various users via the same development application.
+Integrates with web services and databases.
+Builds on virtualization technology, so resources can easily be scaled up or down as per the organization's need.
+Support multiple languages and frameworks.
+Provides an ability to "Auto-scale".
+Example: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos, Magento Commerce Cloud, and OpenShift.
+
+8. What is SAAS, Explain?
+SaaS is also known as "on-demand software". It is a software in which the applications are hosted by a cloud service provider. Users can access these applications with the help of internet connection and web browser.
+Characteristics of SaaS
+Managed from a central location
+Hosted on a remote server
+Accessible over the internet
+Users are not responsible for hardware and software updates. Updates are applied automatically.
+The services are purchased on the pay-as-per-use basis
+Example: BigCommerce, Google Apps, Salesforce, Dropbox, ZenDesk, Cisco WebEx, ZenDesk, Slack, and GoToMeeting
+
+9. What are the advantages of Cloud?
+Reduced IT costs. Moving to cloud computing may reduce the cost of managing and maintaining your IT systems. 
+Scalability. 
+Business continuity. 
+Collaboration efficiency. 
+Flexibility of work practices. 
+Access to automatic updates
+
+10. What is a private cloud?
+The private cloud is defined as computing services offered either over the Internet or a private internal network and only to select users instead of the general public.
+Ex.   HP Data Centers, Microsoft, Elastra-private cloud, and Ubuntu 
+
+11. What is a public cloud?
+Public cloud is a cloud deployment model where computing resources are owned and operated by a provider and shared across multiple tenants via the Internet.
+Ex. Amazon Elastic Compute Cloud (EC2), Microsoft Azure, IBM's Blue Cloud, Sun Cloud, and Google Cloud 
+
+12. What is Hybrid cloud?
+A hybrid cloud is one in which applications are running in a combination of different environments. Hybrid cloud computing approaches are widespread because almost no one today relies entirely on the public cloud.
+ Ex.  AWS Outposts, Azure Stack, Azure Arc, Google Anthos and VMware Cloud on AWS.
+
+13. what is Communicty cloud?
+A community cloud in computing is a collaborative effort in which infrastructure is shared between several organizations from a specific community with common concerns, whether managed internally or by a third-party and hosted internally or externally.
+Ex.  U.S.-based dedicated IBM SoftLayer cloud for federal agencies.
+
+
+
+                                                                                      Importents Links:
+https://services.google.com/fh/files/misc/state-of-devops-2021.pdf
+https://www.youtube.com/watch?v=JkxpVLmziIA
+https://aka.ms/download-jdk/microsoft-jdk-11.0.14.1_1-31205-windows-x64.msi
+https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.20/bin/apache-tomcat-10.0.20.exe
+http://localhost:8080/
+ http://127.0.0.1:8080/
+
